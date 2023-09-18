@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="facebook.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19646"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="253.17797"
+     inkscape:cy="320.97458"
+     inkscape:window-width="1180"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <circle
+       style="fill:#0e162c;fill-opacity:0.454483;stroke-width:0.696669;paint-order:stroke fill markers"
+       id="path360"
+       cx="66.276482"
+       cy="66.363014"
+       r="64.761795" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:3.42177;paint-order:stroke fill markers"
+       d="m 48.338539,122.15849 h 15.625775 l 0,-60.572885 H 89.215429 V 49.558484 H 63.624845 c 0,0 -4.387222,-26.791344 29.760382,-22.158975 V 15.159656 c 0,0 -50.530145,-8.490364 -45.768831,34.266709 H 33.018124 V 60.991906 H 47.66676 Z"
+       id="path692"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

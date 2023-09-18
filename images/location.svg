@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="location.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="176"
+     inkscape:cy="123"
+     inkscape:window-width="1180"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="52.280208,105.83333"
+       orientation="1,0"
+       id="guide148"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path568"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:2.41281;paint-order:stroke fill markers"
+       d="m 65.994376,31.024767 c 0,7.222619 -5.855089,13.077708 -13.077708,13.077708 -7.222619,0 -13.077708,-5.855089 -13.077708,-13.077708 0,-7.222619 5.855089,-13.077708 13.077708,-13.077708 7.222619,0 13.077708,5.855089 13.077708,13.077708 z M 52.916658,1.0365254 C 31.090063,1.0365651 13.396083,18.916171 13.396083,40.557101 c 0,25.648381 24.638615,56.391727 39.429884,64.239739 L 52.620192,80.066494 c 0.08255,0.0033 -0.181949,0.08259 -0.09939,0.08535 l 0.25095,24.557396 C 75.341528,88.28827 90.505972,63.018915 92.43725,40.557072 94.307011,18.810709 74.743271,1.036535 52.916676,1.0364958 Z"
+       sodipodi:nodetypes="ssssscsccccscc" />
+  </g>
+</svg>
