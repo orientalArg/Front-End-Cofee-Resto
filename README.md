@@ -1,4 +1,6 @@
 # Front-End-Cofee-Resto
-!(alt:asd)[https://github.com/orientalArg/Front-End-Cofee-Resto/blob/main/about.png?raw=true]
+### Main Page
+  <img src="https://github.com/orientalArg/Front-End-Cofee-Resto/blob/main/about.png?raw=true" width="350" title="hover text">
 
-!(alt:asd)[https://github.com/orientalArg/Front-End-Cofee-Resto/blob/main/contacto.png?raw=true]
+### Contact Page
+  <img src="https://github.com/orientalArg/Front-End-Cofee-Resto/blob/main/contacto.png?raw=true" width="350" title="hover text">
